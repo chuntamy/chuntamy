@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+輔仁大學 臨床心理學系 大四
 <!--
 **chuntamy/chuntamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
