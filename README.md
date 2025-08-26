@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm current studying in University of Melbourne.
+My professional journey bridges the gap between data science, healthcare, and human behaviour, build on my undergraduate degree in Clinical Psychology and Statistics. With a strong academic foundation in different backgrounds, enabling me to derive meaningful insights from complex datasets that drive strategic decisions.
+
 <!--
 **chuntamy/chuntamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
